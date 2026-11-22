@@ -52,7 +52,7 @@ API website: [TheMealDB](https://www.themealdb.com/api.php)
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/azmain-abrar/cuisine
    ```
 
 2. Move into the project folder (the folder containing `package.json`):
